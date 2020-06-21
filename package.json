@@ -1,0 +1,14 @@
+{
+  "scripts": {
+    "start": "ts-node-dev app.ts"
+  },
+  "dependencies": {
+    "koa": "^2.12.1",
+    "node-dev": "^4.0.0",
+    "ts-node-dev": "^1.0.0-pre.49",
+    "typescript": "^3.9.5"
+  },
+  "devDependencies": {
+    "@types/koa": "^2.11.3"
+  }
+}
